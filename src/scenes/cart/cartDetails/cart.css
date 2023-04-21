@@ -1,0 +1,7 @@
+.cart {
+    display: grid;
+                grid-template-columns:  2fr 1fr;
+                /* grid-auto-rows: 100px; */
+                gap: 5px;
+}
+

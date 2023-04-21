@@ -1,5 +1,32 @@
 import { tokens } from "../theme";
 
+export const mockDataCart = [
+    {
+        id: 1,
+        ProductName: "Nike Pro Max 270",
+        ProductImage: "https://n3.sdlcdn.com/imgs/h/a/5/366-SUPER-02-Multi-Color-SDL424042830-2-e60c6.JPG",
+        ProductPrice: "$450",
+        ProductStock: "In Stock",
+        quantity: 1,
+    },
+    {
+        id: 2,
+        ProductName: "Nike Lamp Light",
+        ProductImage: "https://warisanlighting.com/wp-content/uploads/2016/06/best-table-lamps-1.jpg",
+        ProductPrice: "$450",
+        ProductStock: "In Stock",
+        quantity: 1,
+    },
+    {
+        id: 3,
+        ProductName: "Comfortable Chair",
+        ProductImage: "https://3.bp.blogspot.com/-J-ljKrNecXM/TzAPkuOrVCI/AAAAAAAAJYU/KsmKUE4MlTc/s1600/comfortable+office+chairs+designs.+(4).jpg",
+        ProductPrice: "$450",
+        ProductStock: "In Stock",
+        quantity: 1,
+    },
+];
+
 export const mockDataTeam = [
     {
         id: 1,

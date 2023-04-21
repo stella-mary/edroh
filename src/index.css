@@ -10,6 +10,74 @@ body,
   font-family: 'Source Sans Pro', sans-serif;
 }
 
+
+.button{
+  background-color: #2499ee;
+  padding: 10px;
+  color: white;
+  width: 90%;
+  font-size: 15px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.bgColor {
+  background-color: #1f2a40;
+  /* border-color: #1f2a40;
+  border: solid 1px none; */
+  outline: none;
+  border-radius: 5px;
+  color: #2499ee;
+  cursor: pointer;
+}
+
+.bgColor1{
+  color:  #1f2a40;
+}
+
+.bgColor2 {
+  color: #283b82;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.bgColor3 {
+  color: #469bdb;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.bgColor4 {
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px;
+ vertical-align: middle;
+  color: #2499ee;
+}
+
+.color{
+  color: #455a79;
+}
+
+
+.checkOut{
+margin-left: 20px;
+}
+
+.bordertop{
+  border-top: solid 0.2px;
+  margin-top: -2px;
+  margin-bottom: -5px;
+}
+
+.image{
+  border-radius: 20px;
+}
+
+.space{
+  padding-left: 20px;
+}
+
 .app {
   display: flex;
   position: relative;
